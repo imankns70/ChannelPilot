@@ -1,0 +1,15 @@
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\bin\Debug\net10.0\ChannelPilot.Application.deps.json
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\bin\Debug\net10.0\ChannelPilot.Application.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\bin\Debug\net10.0\ChannelPilot.Application.pdb
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\bin\Debug\net10.0\ChannelPilot.Domain.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\bin\Debug\net10.0\ChannelPilot.Domain.pdb
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.csproj.AssemblyReference.cache
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.AssemblyInfoInputs.cache
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.AssemblyInfo.cs
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.csproj.CoreCompileInputs.cache
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelP.0733E080.Up2Date
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\refint\ChannelPilot.Application.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ChannelPilot.Application.pdb
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Application\obj\Debug\net10.0\ref\ChannelPilot.Application.dll

@@ -1,0 +1,11 @@
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\bin\Debug\net10.0\ChannelPilot.Domain.deps.json
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\bin\Debug\net10.0\ChannelPilot.Domain.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\bin\Debug\net10.0\ChannelPilot.Domain.pdb
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.AssemblyInfoInputs.cache
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.AssemblyInfo.cs
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\refint\ChannelPilot.Domain.dll
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ChannelPilot.Domain.pdb
+D:\Projects\ChannelPilot\backend\src\ChannelPilot.Domain\obj\Debug\net10.0\ref\ChannelPilot.Domain.dll

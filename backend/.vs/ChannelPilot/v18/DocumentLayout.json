@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ChannelPilot\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\logging\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\logging\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1196FEE4-9431-48EE-80BA-398CFAF5841B}|src\\ChannelPilot.Worker\\ChannelPilot.Worker.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.worker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1196FEE4-9431-48EE-80BA-398CFAF5841B}|src\\ChannelPilot.Worker\\ChannelPilot.Worker.csproj|solutionrelative:src\\channelpilot.worker\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9114169-FC44-4061-B254-28E8A22986DE}|src\\ChannelPilot.Api\\ChannelPilot.Api.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9114169-FC44-4061-B254-28E8A22986DE}|src\\ChannelPilot.Api\\ChannelPilot.Api.csproj|solutionrelative:src\\channelpilot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9114169-FC44-4061-B254-28E8A22986DE}|src\\ChannelPilot.Api\\ChannelPilot.Api.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.api\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9114169-FC44-4061-B254-28E8A22986DE}|src\\ChannelPilot.Api\\ChannelPilot.Api.csproj|solutionrelative:src\\channelpilot.api\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\time\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\time\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\ai\\fakeaicontentrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\ai\\fakeaicontentrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.infrastructure\\ai\\fakeaicontentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C2C087-2AD9-4E63-A804-4789920B2913}|src\\ChannelPilot.Infrastructure\\ChannelPilot.Infrastructure.csproj|solutionrelative:src\\channelpilot.infrastructure\\ai\\fakeaicontentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDED856-A587-4711-AB62-77EA6510BDDB}|src\\ChannelPilot.Domain\\ChannelPilot.Domain.csproj|d:\\projects\\channelpilot\\backend\\src\\channelpilot.domain\\channels\\channelstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDED856-A587-4711-AB62-77EA6510BDDB}|src\\ChannelPilot.Domain\\ChannelPilot.Domain.csproj|solutionrelative:src\\channelpilot.domain\\channels\\channelstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Logging\\README.md",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\Logging\\README.md",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Logging\\README.md",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\Logging\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-03T12:25:59.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:25:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T12:25:38.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Worker\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Worker\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Worker\\appsettings.Development.json",
+              "RelativeToolTip": "src\\ChannelPilot.Worker\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T11:53:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Api\\appsettings.json",
+              "RelativeToolTip": "src\\ChannelPilot.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T11:53:19.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChannelsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Api\\Controllers\\ChannelsController.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Api\\Controllers\\ChannelsController.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Api\\Controllers\\ChannelsController.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Api\\Controllers\\ChannelsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:26:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeProvider.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Time\\DateTimeProvider.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\Time\\DateTimeProvider.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\Time\\DateTimeProvider.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\Time\\DateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:26:05.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FakeAiContentRewriter.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentRewriter.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentRewriter.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentRewriter.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentRewriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:25:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FakeAiContentAnalyzer.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentAnalyzer.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentAnalyzer.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentAnalyzer.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Infrastructure\\AI\\FakeAiContentAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T10:25:35.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChannelStatus.cs",
+              "DocumentMoniker": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Domain\\Channels\\ChannelStatus.cs",
+              "RelativeDocumentMoniker": "src\\ChannelPilot.Domain\\Channels\\ChannelStatus.cs",
+              "ToolTip": "D:\\Projects\\ChannelPilot\\backend\\src\\ChannelPilot.Domain\\Channels\\ChannelStatus.cs",
+              "RelativeToolTip": "src\\ChannelPilot.Domain\\Channels\\ChannelStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T09:40:53.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
